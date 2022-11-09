@@ -1,0 +1,194 @@
+<?php
+?>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-150467036-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-150467036-1');
+</script>
+
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="Responsive Personal Portfolio vCard Template">
+	<meta name="author" content="Ahmed Faruk">
+
+	<title>Learning to Guide Human Attention on Mobile Telepresence Robots with 360-degree Vision</title>
+
+  <!-- Web Fonts -->
+  <link href='http://fonts.googleapis.com/css?family=Roboto:400,300,500,700' rel='stylesheet' type='text/css'>
+	<!-- Bootstrap core CSS -->
+	<link href="assets/bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
+	<!-- Font Awesome CSS -->
+	<link href="assets/css/font-awesome.min.css" rel="stylesheet" media="screen">
+	<!-- Animate css -->
+  <link href="assets/css/animate.css" rel="stylesheet">
+  <!-- Magnific css -->
+	<link href="assets/css/magnific-popup.css" rel="stylesheet">
+	<!-- Custom styles CSS -->
+	<link href="assets/css/style.css" rel="stylesheet" media="screen">
+  <!-- Responsive CSS -->
+  <link href="assets/css/responsive.css" rel="stylesheet">
+
+  <link rel="shortcut icon" href="assets/images/ico/favicon.png">
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="assets/images/ico/apple-touch-icon-144-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="assets/images/ico/apple-touch-icon-114-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="assets/images/ico/apple-touch-icon-72-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" href="assets/images/ico/apple-touch-icon-57-precomposed.png">
+
+    <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+    </style>
+
+</head>
+
+<body>
+
+
+	<!-- Navigation -->
+	<header class="header">
+		<nav class="navbar navbar-custom" role="navigation">
+			<div class="container">
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#custom-collapse">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+					
+				</div>
+
+				<div class="collapse navbar-collapse" id="custom-collapse">
+				 <!--   <ul class="nav navbar-nav navbar-right">-->
+					<!--	<li><a href="https://github.com/kchanda2/SUGAR2">Code</a></li>-->
+					<!--</ul>-->
+					<ul class="nav navbar-nav navbar-right">
+						<li><a href="https://www.youtube.com/watch?v=aGbTxCGJSDM">Video</a></li>
+					</ul>
+					<ul class="nav navbar-nav navbar-right">
+						<li><a href="https://arxiv.org/pdf/2109.10385">Paper</a></li>
+					</ul>
+					<!--<ul class="nav navbar-nav navbar-right">-->
+					<!--	<li><a href="https://ieeexplore.ieee.org/document/9561144">Official</a></li>-->
+					<!--</ul>-->
+					<ul class="nav navbar-nav navbar-right">
+						<li><a href="http://www.perceptobot.com/papers_media/GHAL360_Slides.pdf">Slides</a></li>
+					</ul>
+					
+					
+				</div>
+			</div><!-- .container -->
+		</nav>
+	</header><!-- End Navigation -->
+
+
+    <!-- About Section -->
+    <section id="about" class="about-section section-padding">
+      <div class="container">
+        <h2 class="section-title wow fadeInUp">Learning to Guide Human Attention on Mobile Telepresence Robots with 360-degree Vision</h2>
+        <h4 style="color:red" class="wow fadeInUp"> IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021</h4>
+        <div class="row">
+
+          <div class="col-md-12 col-sm-12">
+            <div class="short-info wow fadeInUp">
+              <h3>Abstract</h3>
+              <p align="justify">Mobile telepresence robots (MTRs) allow people to navigate and interact with a remote environment that is in a place other than the person's true location. Thanks to the recent advances in 360-degree vision, many MTRs are now equipped with an all-degree visual perception capability. However, people's visual field horizontally spans only about 120-degree of the visual field captured by the robot. To bridge this observability gap toward human-MTR shared autonomy, we have developed a framework, called <b>GHAL360</b>, to enable the MTR to learn a goal-oriented policy from reinforcements for guiding human attention using visual indicators. Three telepresence environments were constructed using datasets that are extracted from Matterport3D and collected from a real robot respectively. Experimental results show that GHAL360 outperformed the baselines from the literature in the efficiency of a human-MTR team completing target search tasks. </p>
+            </div>
+
+  
+        
+        </div> <!-- /.row -->
+      </div> <!-- /.container -->
+      <div class="row">
+          <div class="col-md-12 col-sm-12">
+                <div class="short-info wow fadeInUp">
+                    <img class="img-responsive" src="http://www.perceptobot.com/papers_media/IROS_GHAL360.jpg" alt="Car with Controller">    
+                    </br>
+                    <center><p><b>GHAL360 Framework</b></p></center>
+                </div>
+                
+            </div>
+            <!--<div class="col-md-4 col-sm-4">-->
+            <!--    <div class="short-info wow fadeInUp">-->
+            <!--        <img class="img-responsive" src="http://www.perceptobot.com/assets/images/projects/self_driving_cars/car_in_sim_env.jpg" alt="Car with Controller">-->
+                    
+            <!--    </div>-->
+                
+            <!--</div>-->
+              
+      </div>
+          <hr>
+      <div class="row">
+          <div class="col-md-12 col-sm-12">
+              
+              <center><h3 style="color:red" class="wow fadeInUp">Presentation Video</h3></center>
+              <hr>
+              </br>
+               <!--<iframe width="420" height="315"-->
+               <!-- src="https://www.youtube.com/embed/rGEdiaPs8FY">-->
+               <!-- </iframe>-->
+                <div class='embed-container'><iframe src='https://www.youtube.com/embed/e4mWzfUBWvM' frameborder='0' allowfullscreen></iframe></div>
+            </div>
+            <!--<div class="col-md-4 col-sm-4">-->
+            <!--    <div class="short-info wow fadeInUp">-->
+            <!--        <img class="img-responsive" src="http://www.perceptobot.com/assets/images/projects/self_driving_cars/car_in_sim_env.jpg" alt="Car with Controller">-->
+                    
+            <!--    </div>-->
+                
+            <!--</div>-->
+              
+      </div>
+          
+          
+        </div>
+        
+         
+             
+      
+    </section><!-- End About Section -->
+
+
+  
+	<!-- Footer Section -->
+    <footer class="footer-wrapper">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="copyright text-center">
+              <p>&copy; Kishan Chandan 2021. All rights reserved.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer><!-- End Footer Section -->
+
+
+	<!-- Scroll-up -->
+	<!--<div class="scroll-up">-->
+	<!--	<a href="#home"><i class="fa fa-angle-up"></i></a>-->
+	<!--</div>-->
+
+	<!-- Javascript files -->
+	<script src="assets/js/jquery.js"></script>
+	<script src="assets/bootstrap/js/bootstrap.min.js"></script>
+  <script src="assets/js/jquery.stellar.min.js"></script>
+	<script src="assets/js/jquery.sticky.js"></script>
+  <script src="assets/js/smoothscroll.js"></script>
+	<script src="assets/js/wow.min.js"></script>
+  <script src="assets/js/jquery.countTo.js"></script>
+  <script src="assets/js/jquery.inview.min.js"></script> 
+  <script src="assets/js/jquery.easypiechart.js"></script>
+  <script src="assets/js/jquery.shuffle.min.js"></script>
+  <script src="assets/js/jquery.magnific-popup.min.js"></script>
+  <script src="http://a.vimeocdn.com/js/froogaloop2.min.js"></script>
+  <script src="assets/js/jquery.fitvids.js"></script>
+  <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;sensor=false"></script>
+  <script src="assets/js/scripts.js"></script>
+</body>
+</html>
